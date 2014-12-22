@@ -1,0 +1,5 @@
+c:\users\sso\documents\visual studio 2010\Projects\VisorAPI\VisorAPI\bin\Debug\VisorAPI.dll
+c:\users\sso\documents\visual studio 2010\Projects\VisorAPI\VisorAPI\bin\Debug\VisorAPI.pdb
+c:\users\sso\documents\visual studio 2010\Projects\VisorAPI\VisorAPI\obj\Debug\VisorAPI.dll
+c:\users\sso\documents\visual studio 2010\Projects\VisorAPI\VisorAPI\obj\Debug\VisorAPI.pdb
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorAPI\obj\Debug\VisorAPI.csprojResolveAssemblyReference.cache

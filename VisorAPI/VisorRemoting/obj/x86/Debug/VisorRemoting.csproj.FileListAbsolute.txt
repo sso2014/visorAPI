@@ -1,0 +1,11 @@
+C:\Users\SSO\Desktop\Projects\VisorApp\VisorRemoting\bin\Debug\VisorRemoting.dll
+C:\Users\SSO\Desktop\Projects\VisorApp\VisorRemoting\bin\Debug\VisorRemoting.pdb
+C:\Users\SSO\Desktop\Projects\VisorApp\VisorRemoting\obj\x86\Debug\VisorRemoting.dll
+C:\Users\SSO\Desktop\Projects\VisorApp\VisorRemoting\obj\x86\Debug\VisorRemoting.pdb
+C:\Users\SSO\Desktop\Projects\VisorApp\VisorRemoting\obj\x86\Debug\VisorRemoting.csprojResolveAssemblyReference.cache
+C:\Users\SSO\Desktop\Projects\VisorApp\VisorRemoting\bin\Debug\Core.dll
+C:\Users\SSO\Desktop\Projects\VisorApp\VisorRemoting\bin\Debug\Core.pdb
+C:\Users\SSO\Desktop\Projects\VisorApp\VisorRemoting\obj\x86\Debug\VisorRemoting.V5.Panel.resources
+C:\Users\SSO\Desktop\Projects\VisorApp\VisorRemoting\obj\x86\Debug\VisorRemoting.csproj.GenerateResource.Cache
+C:\Users\SSO\Desktop\Projects\VisorApp\VisorRemoting\obj\x86\Debug\VisorRemoting.V6.Panel.resources
+C:\Users\SSO\Desktop\Projects\VisorApp\VisorRemoting\obj\x86\Debug\VisorRemoting.V7.Panel.resources

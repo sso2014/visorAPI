@@ -1,0 +1,469 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VisorRemoting.V1.GenerateDataset" Collapsed="true">
+    <Position X="9" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>V1\GenerateDataset.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V1.GetSocket" Collapsed="true">
+    <Position X="10.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAEAAEAgAAIMAARgAgAAQAAAAQAIACACAABAA=</HashCode>
+      <FileName>V1\GetSocket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V1.ClassHandlerData" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>V1\HandlerData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V1.ObjectState" Collapsed="true">
+    <Position X="17.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAACCAEAAAAAAAAAAAAAAABQAAAAAAA=</HashCode>
+      <FileName>V1\ObjectState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V1.Remoting" Collapsed="true">
+    <Position X="10.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACEEAACAAAACAAkAABoAgAAACAAAQgABAAAAgAAE=</HashCode>
+      <FileName>V1\Remoting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V1.Remoting2" Collapsed="true">
+    <Position X="12.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACEEAAAAAAACAAkAABoAAAAACAAAQgABAAAAgAAE=</HashCode>
+      <FileName>V1\Remoting2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V1.Remoting4" Collapsed="true">
+    <Position X="14.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAACAAAAAAAAAAAIAAAEAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>V1\Remoting4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V1.SocketConnection" Collapsed="true">
+    <Position X="12.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAUAAAIAAAAEAAAIAAAAAAAAAAAIAAAAAAAIE=</HashCode>
+      <FileName>V1\SocketConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V1.TimeOutSocket" Collapsed="true">
+    <Position X="17.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAABAAAAAAAAIAIAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>V1\TimeOutSocket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V2.BaseRemoting">
+    <Position X="5.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>V2\BaseRemoting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V2.ClassHandlerData" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>V2\HandlerData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V2.Remoting" Collapsed="true">
+    <Position X="17.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAEAAEAgAAIMAARgAgAAQAAAgQAIASACAABgg=</HashCode>
+      <FileName>V2\Remoting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V2.RemotingConfig" Collapsed="true">
+    <Position X="16" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAIAAAIQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>V2\RemotingConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V2.RemotingConnection">
+    <Position X="5.75" Y="3" Width="2.25" />
+    <NestedTypes>
+      <Delegate Name="VisorRemoting.V2.RemotingConnection.RemotingEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>V2\RemotingConnection.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BBYCAEAIACAAkBAACAABYIAAJAQCAAAQAAAABAEmAgA=</HashCode>
+      <FileName>V2\RemotingConnection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VisorRemoting.V2.RemotingEventArgs" Collapsed="true">
+    <Position X="14.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAEABAAAAAAAAAAAAA=</HashCode>
+      <FileName>V2\RemotingEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V2.RemotingObjectVisorEventArgs" Collapsed="true">
+    <Position X="17.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQACAAA=</HashCode>
+      <FileName>V2\RemotingObjectVisorEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V2.RemotingStart" Collapsed="true">
+    <Position X="10.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAIAAAAAAFAABMAIBgAgAAAAAAQAAAAAAAiEAAA=</HashCode>
+      <FileName>V2\RemotingStart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V2.StateObject" Collapsed="true">
+    <Position X="16" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACCAEAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>V2\StateObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V3.ConfigConnection" Collapsed="true">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAIAAAIQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>V3\ConfigConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V3.Connectioned" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACEEAAAAAAACAAEAABgAAAAACAAgQAAAAQAAgAAE=</HashCode>
+      <FileName>V3\Connected.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V3.Panel" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MAACAAAAQYgAQAhAgACAhoAgAAAAIBUCAAAAAECQAAA=</HashCode>
+      <FileName>V3\Panel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VisorRemoting.V3.Remoting" Collapsed="true">
+    <Position X="9" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>V3\Remoting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V3.RemotingConnection" Collapsed="true">
+    <Position X="9" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACEEAAEAAAACAAEAABgAAAACCAAgQgAAAQQAgAAE=</HashCode>
+      <FileName>V3\RemotingConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V3.RemotingStart" Collapsed="true">
+    <Position X="9" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>V3\RemotingStart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V3.StateObject" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACCAEAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>V3\StateObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V4.ControllerRemoting" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAABAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>V4\ControllerRemoting.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V4.Remoting">
+    <Position X="3.5" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAEAAAwAACCEAAAIAAAAAAAAAQCABAAAAAAAA=</HashCode>
+      <FileName>V4\Remoting.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VisorRemoting.V4.RemotingConfig" Collapsed="true">
+    <Position X="17.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAIAAAAAAAAAAAAIAAAIQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>V4\RemotingConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V4.RemotingConnection" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACACEEAAEAAAACAAkAABgAgRAACAAAQAAAAAAAgAAE=</HashCode>
+      <FileName>V4\RemotingConnection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VisorRemoting.V4.RemotingProtocol" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAgAABgAgAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>V4\RemotingProtocol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V4.StateObject" Collapsed="true">
+    <Position X="14.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACCAEAAAAAAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>V4\StateObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V5.Helper" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>V5\Helper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V5.Panel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>uAAAgAAAwAgIQhlAgAEBgIACAFC4JTEDAGQRAEAQAAE=</HashCode>
+      <FileName>V5\Panel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VisorRemoting.V5.Remoting" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAEBAAAIIgAEAAEAABAQAQAAAAAgAAABAAAAEAAA=</HashCode>
+      <FileName>V5\Remoting.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VisorRemoting.V5.RemotingConnection" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>V5\RemotingConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V5.RemotingController" Collapsed="true">
+    <Position X="12.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAACAAIAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>V5\RemotingController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V5.RemotingModel" Collapsed="true">
+    <Position X="16" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>V5\RemotingModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V5.RemotingProtocol" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAgAABgAgAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>V5\RemotingProtocol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V6.Display" Collapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAACAAAAQAgAAAhAgAAAAIAAAAAAIBACAIAAAEAQAAA=</HashCode>
+      <FileName>V6\Display.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V6.Helper" Collapsed="true">
+    <Position X="12.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAABAAwAAABAAEAAAAAQAACAAAAgAA=</HashCode>
+      <FileName>V6\Helper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V6.IPanelAction" Collapsed="true">
+    <Position X="16" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>V6\IPanelAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V6.Panel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAQIgAAAgAAIQgAAAQGBIAACAFW6pSEBAHQIAgAAAgE=</HashCode>
+      <FileName>V6\Panel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VisorRemoting.V6.PanelAction" Collapsed="true">
+    <Position X="12.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>V6\PanelAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisorRemoting.V6.PanelController" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAACAAAAABAAAQAAAAAIAAA=</HashCode>
+      <FileName>V6\PanelController.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VisorRemoting.V6.PanelModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAFAAEAQAAAIAAgAAAAQBAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>V6\PanelModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VisorRemoting.V6.Remoting" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAEBAAAIIgAEAAEAABAQAQAAAAAgAAABAAAAEAAA=</HashCode>
+      <FileName>V6\Remoting.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VisorRemoting.V6.RemotingProtocol" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAgAABgAgAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>V6\RemotingProtocol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="VisorRemoting.V4.IRemoting" Collapsed="true">
+    <Position X="9" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>V4\IRemoting.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VisorRemoting.V5.IPanel" Collapsed="true">
+    <Position X="12.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAEAAEAAAAAAAACABAAAAAAA=</HashCode>
+      <FileName>V5\IPanel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VisorRemoting.V5.IRemoting" Collapsed="true">
+    <Position X="10.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAEAAAQAAAAAAAAIQAAAAAAAAQCAAAAAAAAAA=</HashCode>
+      <FileName>V5\IRemoting.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VisorRemoting.V5.IRemotingController" Collapsed="true">
+    <Position X="12.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>V5\IRemotingController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VisorRemoting.V5.IRemotingControllerView" Collapsed="true">
+    <Position X="14.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>V5\IRemotingControllerView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VisorRemoting.V5.IRemotingModel" Collapsed="true">
+    <Position X="16" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>V5\IRemotingModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VisorRemoting.V6.IDisplay" Collapsed="true">
+    <Position X="9" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>V6\IDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VisorRemoting.V6.IPanel" Collapsed="true">
+    <Position X="10.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAABAAAAAAAUAAEAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>V6\IPanel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VisorRemoting.V6.IPanelController" Collapsed="true">
+    <Position X="14.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>V6\IPanelController.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VisorRemoting.V6.IPanelModel" Collapsed="true">
+    <Position X="16" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAEAAAAAAAAAAAAAQBAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>V6\IPanelModel.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="VisorRemoting.V6.IRemoting" Collapsed="true">
+    <Position X="17.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAEAAAQAAAAAAAAIQAAAAAAAAQCAAAAAAAAAA=</HashCode>
+      <FileName>V6\IRemoting.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="VisorRemoting.V2.CommandType" Collapsed="true">
+    <Position X="9" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAgAAAAAAAAAAEAAEAAAAAgAACAAAAAAAAA=</HashCode>
+      <FileName>V2\CommandType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisorRemoting.V2.ValleyCommandType" Collapsed="true">
+    <Position X="16" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAgAAAAAAAAAAEAAEAAAAAgAACAAAAAAAAA=</HashCode>
+      <FileName>V2\ValleyCommandType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisorRemoting.V3.ValleyCommandType" Collapsed="true">
+    <Position X="17.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAgAAAAAAAAAAEAAEAAAAAgAACAAAAAAAAA=</HashCode>
+      <FileName>V3\ValleyCommandType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisorRemoting.V4.ValleyCommandType" Collapsed="true">
+    <Position X="14.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAgAAAAAAAAAAEAAEAAAAAgAACAAAAAAAAA=</HashCode>
+      <FileName>V4\ValleyCommandType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisorRemoting.V5.ValleyCommandType" Collapsed="true">
+    <Position X="10.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAgAAAAAAAAAAEAAEAAAAAgAACAAAAAAAAA=</HashCode>
+      <FileName>V5\ValleyCommandType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="VisorRemoting.V6.ValleyCommandType" Collapsed="true">
+    <Position X="12.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAgAAAAAAAAAAEAAEAAAAAgAACAAAAAAAAA=</HashCode>
+      <FileName>V6\ValleyCommandType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

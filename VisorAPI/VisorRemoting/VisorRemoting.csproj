@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{77284777-E3D3-488F-8682-994A7E91541E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VisorRemoting</RootNamespace>
+    <AssemblyName>VisorRemoting</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="V6\Repository.cs" />
+    <Compile Include="V6\Respository\IUnitOfWork.cs" />
+    <Compile Include="V6\Respository\PagedResult.cs" />
+    <Compile Include="V6\Respository\UserRepository.cs" />
+    <Compile Include="V7\Helper.cs" />
+    <Compile Include="V7\RemoteState.cs" />
+    <Compile Include="V7\Display.cs" />
+    <Compile Include="V7\IDisplay.cs" />
+    <Compile Include="V7\IPanel.cs" />
+    <Compile Include="V7\IPanelAction.cs" />
+    <Compile Include="V7\IPanelController.cs" />
+    <Compile Include="V7\IPanelModel.cs" />
+    <Compile Include="V7\IRemoting.cs" />
+    <Compile Include="V7\Panel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="V7\PanelAction.cs" />
+    <Compile Include="V7\PanelController.cs" />
+    <Compile Include="V7\PanelModel.cs" />
+    <Compile Include="V7\Remoting.cs" />
+    <Compile Include="V7\RemotingEventArgs.cs" />
+    <Compile Include="V7\RemotingProtocol.cs" />
+    <Compile Include="V7\SyncMaster.cs" />
+    <Compile Include="V7\ValleyCommandType.cs" />
+    <Compile Include="V3\ConfigConnection.cs" />
+    <Compile Include="V3\Copia de Program.cs" />
+    <Compile Include="V3\Panel.cs" />
+    <Compile Include="V3\Connected.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="V3\Remoting.cs" />
+    <Compile Include="V3\RemotingConnection.cs" />
+    <Compile Include="V3\RemotingStart.cs" />
+    <Compile Include="V3\StateObject.cs" />
+    <Compile Include="V1\GenerateDataset.cs" />
+    <Compile Include="V1\GetSocket.cs" />
+    <Compile Include="V1\HandlerData.cs" />
+    <Compile Include="V1\ObjectState.cs" />
+    <Compile Include="V1\Remoting.cs" />
+    <Compile Include="V1\Remoting2.cs" />
+    <Compile Include="V1\Remoting3.cs" />
+    <Compile Include="V1\Remoting4.cs" />
+    <Compile Include="V1\SocketConnection.cs" />
+    <Compile Include="V1\TimeOutSocket.cs" />
+    <Compile Include="V2\BaseRemoting.cs" />
+    <Compile Include="V2\CommandType.cs" />
+    <Compile Include="V2\HandlerData.cs" />
+    <Compile Include="V2\Remoting.cs" />
+    <Compile Include="V2\RemotingCommand.cs" />
+    <Compile Include="V2\RemotingConfig.cs" />
+    <Compile Include="V2\RemotingConnection.cs" />
+    <Compile Include="V2\RemotingEventArgs.cs" />
+    <Compile Include="V2\RemotingObjectVisorEventArgs.cs" />
+    <Compile Include="V2\RemotingStart.cs" />
+    <Compile Include="V2\StateObject.cs" />
+    <Compile Include="V2\ValleyCommandType.cs" />
+    <Compile Include="V3\ValleyCommandType.cs" />
+    <Compile Include="V4\ControllerRemoting.cs" />
+    <Compile Include="V4\IRemoting.cs" />
+    <Compile Include="V4\Remoting.cs" />
+    <Compile Include="V4\RemotingConfig.cs" />
+    <Compile Include="V4\RemotingConnection.cs" />
+    <Compile Include="V4\RemotingProtocol.cs" />
+    <Compile Include="V4\StateObject.cs" />
+    <Compile Include="V4\ValleyCommandType.cs" />
+    <Compile Include="V5\Helper.cs" />
+    <Compile Include="V5\IPanel.cs" />
+    <Compile Include="V5\IRemoting.cs" />
+    <Compile Include="V5\IRemotingController.cs" />
+    <Compile Include="V5\IRemotingControllerView.cs" />
+    <Compile Include="V5\IRemotingModel.cs" />
+    <Compile Include="V5\Panel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="V5\Remoting.cs" />
+    <Compile Include="V5\RemotingConnection.cs" />
+    <Compile Include="V5\RemotingController.cs" />
+    <Compile Include="V5\RemotingModel.cs" />
+    <Compile Include="V5\RemotingProtocol.cs" />
+    <Compile Include="V5\ValleyCommandType.cs" />
+    <Compile Include="V6\Display.cs" />
+    <Compile Include="V6\Helper.cs" />
+    <Compile Include="V6\IDisplay.cs" />
+    <Compile Include="V6\IPanel.cs" />
+    <Compile Include="V6\IPanelAction.cs" />
+    <Compile Include="V6\IPanelController.cs" />
+    <Compile Include="V6\IPanelModel.cs" />
+    <Compile Include="V6\IRemoting.cs" />
+    <Compile Include="V6\Panel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="V6\PanelAction.cs" />
+    <Compile Include="V6\PanelController.cs" />
+    <Compile Include="V6\PanelModel.cs" />
+    <Compile Include="V6\Remoting.cs" />
+    <Compile Include="V6\RemotingProtocol.cs" />
+    <Compile Include="V6\ValleyCommandType.cs" />
+    <Compile Include="V8\RemoteManager3.cs" />
+    <Compile Include="V8\Helper.cs" />
+    <Compile Include="V8\LinqRemote.cs" />
+    <Compile Include="V8\RemoteEventArgs.cs" />
+    <Compile Include="V8\RemoteManager2.cs" />
+    <Compile Include="V8\Display.cs" />
+    <Compile Include="V8\IDisplay.cs" />
+    <Compile Include="V8\IPanel.cs" />
+    <Compile Include="V8\IPanelController.cs" />
+    <Compile Include="V8\IPanelModel.cs" />
+    <Compile Include="V8\IRemote.cs" />
+    <Compile Include="V8\IRemoting.cs" />
+    <Compile Include="V8\Panel.cs" />
+    <Compile Include="V8\PanelModel.cs" />
+    <Compile Include="V8\RemoteClient.cs" />
+    <Compile Include="V8\RemoteManager.cs" />
+    <Compile Include="V8\Remoting.cs" />
+    <Compile Include="V8\RemotingProtocol.cs" />
+    <Compile Include="V8\ValleyCommandType.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj">
+      <Project>{812A3B00-90CA-4637-93E5-D691245DE96A}</Project>
+      <Name>Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="V7\Panel.resx">
+      <DependentUpon>Panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V5\Panel.resx">
+      <DependentUpon>Panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="V6\Panel.resx">
+      <DependentUpon>Panel.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

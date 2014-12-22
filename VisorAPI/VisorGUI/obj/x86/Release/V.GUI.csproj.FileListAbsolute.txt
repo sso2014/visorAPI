@@ -1,0 +1,15 @@
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\obj\x86\Release\V.GUI.csprojResolveAssemblyReference.cache
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\obj\x86\Release\V.GUI.CtrlSelect.resources
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\obj\x86\Release\V.CtrlEstados.resources
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\obj\x86\Release\V.GUI.CtrlSentido.resources
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\obj\x86\Release\Visor.GUI.CtrlState.resources
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\obj\x86\Release\V.GUI.Main.resources
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\obj\x86\Release\V.FrmConfig.resources
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\obj\x86\Release\V.GUI.FrmEquipoConfig.resources
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\obj\x86\Release\V.GUI.FrmLogin.resources
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\obj\x86\Release\V.GUI.FrmPanel.resources
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\obj\x86\Release\V.FrmRemote.resources
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\obj\x86\Release\V.FrmTarea.resources
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\obj\x86\Release\V.Properties.Resources.resources
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\obj\x86\Release\V.GUI.csproj.GenerateResource.Cache
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\obj\x86\Release\V.GUI.Properties.Resources.resources

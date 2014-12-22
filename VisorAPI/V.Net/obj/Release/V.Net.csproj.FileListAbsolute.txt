@@ -1,0 +1,9 @@
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\V.Net\bin\Release\V.Net.dll
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\V.Net\bin\Release\V.Net.pdb
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\V.Net\obj\Release\V.Net.dll
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\V.Net\obj\Release\V.Net.pdb
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\V.Net\bin\Release\V.Core.dll
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\V.Net\bin\Release\V.Data.dll
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\V.Net\bin\Release\V.Core.pdb
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\V.Net\bin\Release\V.Data.pdb
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\V.Net\obj\Release\V.Net.csprojResolveAssemblyReference.cache

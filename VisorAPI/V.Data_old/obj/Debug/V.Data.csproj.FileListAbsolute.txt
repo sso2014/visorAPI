@@ -1,0 +1,7 @@
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\V.Data\obj\Debug\V.Data.csprojResolveAssemblyReference.cache
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\V.Data\bin\Debug\V.Data.dll
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\V.Data\bin\Debug\V.Data.pdb
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\V.Data\bin\Debug\V.Core.dll
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\V.Data\bin\Debug\V.Core.pdb
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\V.Data\obj\Debug\V.Data.dll
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\V.Data\obj\Debug\V.Data.pdb

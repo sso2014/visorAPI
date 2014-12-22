@@ -1,0 +1,8 @@
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\bin\Debug\VisorGUI.exe
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\bin\Debug\VisorGUI.pdb
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\obj\x86\Debug\VisorGUI.Form1.resources
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\obj\x86\Debug\VisorGUI.Properties.Resources.resources
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\obj\x86\Debug\VisorGUI.csproj.GenerateResource.Cache
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\obj\x86\Debug\VisorGUI.exe
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\obj\x86\Debug\VisorGUI.pdb
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorGUI\obj\x86\Debug\VisorGUI.Map.resources

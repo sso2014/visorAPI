@@ -1,0 +1,6 @@
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\V.Data\bin\Release\V.Data.dll
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\V.Data\bin\Release\V.Data.pdb
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\V.Data\bin\Release\V.Core.dll
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\V.Data\bin\Release\V.Core.pdb
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\V.Data\obj\Release\V.Data.dll
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\V.Data\obj\Release\V.Data.pdb

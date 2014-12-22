@@ -1,0 +1,4 @@
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorRemoting\obj\x86\Release\VisorRemoting.V7.Panel.resources
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorRemoting\obj\x86\Release\VisorRemoting.V5.Panel.resources
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorRemoting\obj\x86\Release\VisorRemoting.V6.Panel.resources
+C:\Users\SSO\Documents\Visual Studio 2010\Projects\VisorAPI\VisorRemoting\obj\x86\Release\VisorRemoting.csproj.GenerateResource.Cache
